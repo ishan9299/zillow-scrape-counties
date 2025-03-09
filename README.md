@@ -1,3 +1,3 @@
 This is a demo for scraping all the counties to get the number of available properties that are pending or not.
-I have limited the code to scrape only Delaware but this can easily be modified to run for all the other states.
+This script will get blocked either generate a fresh set of headers and cookies when it fails or use a proxy. It can generate about 300 results before getting blocked.
 You can check the result.csv file to see the data.
