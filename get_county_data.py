@@ -2,32 +2,33 @@ import requests
 import json
 import pandas as pd
 
-def main(url, headers, payload):
+def main(url, headers, cookies, payload):
+    result = []
     try:
         with open("region_data.json") as file:
             region_data = json.load(file)
 
-        result = []
         for state_code in list(region_data.keys()):
             counties = region_data[f"{state_code}"]["counties"]
-            if state_code == "DE":
-                for county in counties:
-                    mapBounds = region_data[f"{state_code}"]["mapBounds"]
-                    payload["searchQueryState"]["mapBounds"] = mapBounds
-                    payload["searchQueryState"]["regionSelection"][0]["regionId"] = county["regionId"]
+            # if state_code == "DE":
+            for county in counties:
+                print(f"started for county: {county['id']}")
+                mapBounds = region_data[f"{state_code}"]["mapBounds"]
+                payload["searchQueryState"]["mapBounds"] = mapBounds
+                payload["searchQueryState"]["regionSelection"][0]["regionId"] = county["regionId"]
 
-                    payload["searchQueryState"]["filterState"]["isPendingListingsSelected"]["value"] = True
-                    payload_str = json.dumps(payload)
-                    response = requests.request("PUT", url, headers=headers, data=payload_str).json()
-                    pnd_true = response["categoryTotals"]["cat1"]["totalResultCount"]
+                payload["searchQueryState"]["filterState"]["isPendingListingsSelected"]["value"] = True
+                payload_str = json.dumps(payload)
+                response = requests.request("PUT", url, headers=headers, cookies=cookies, data=payload_str).json()
+                pnd_true = response["categoryTotals"]["cat1"]["totalResultCount"]
 
-                    payload["searchQueryState"]["filterState"]["isPendingListingsSelected"]["value"] = False
-                    payload_str = json.dumps(payload)
-                    response = requests.request("PUT", url, headers=headers, data=payload_str).json()
-                    pnd_false = response["categoryTotals"]["cat1"]["totalResultCount"]
+                payload["searchQueryState"]["filterState"]["isPendingListingsSelected"]["value"] = False
+                payload_str = json.dumps(payload)
+                response = requests.request("PUT", url, headers=headers, cookies=cookies, data=payload_str).json()
+                pnd_false = response["categoryTotals"]["cat1"]["totalResultCount"]
 
-                    result_dic = {"name": county["id"], "pnd_true": pnd_true, "pnd_false": pnd_false}
-                    result.append(result_dic)
+                result_dic = {"name": county["id"], "pnd_true": pnd_true, "pnd_false": pnd_false}
+                result.append(result_dic)
 
         print(result)
         df = pd.DataFrame(result)
@@ -35,6 +36,8 @@ def main(url, headers, payload):
 
     except Exception as e:
         print(f"An error has occured: {e}")
+        df = pd.DataFrame(result)
+        df.to_csv("result.csv", index=False)
 
 
 if __name__ == "__main__":
