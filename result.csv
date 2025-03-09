@@ -1,4 +1,347 @@
 name,pnd_true,pnd_false
-"New Castle County, DE",679,322
-"Sussex County, DE",1183,794
-"Kent County, DE",458,279
+"Jefferson County, AL",2450,1620
+"Mobile County, AL",1514,1091
+"Madison County, AL",2337,1635
+"Montgomery County, AL",967,642
+"Shelby County, AL",777,474
+"Baldwin County, AL",1622,1334
+"Tuscaloosa County, AL",577,362
+"Lee County, AL",442,271
+"Morgan County, AL",472,348
+"Calhoun County, AL",338,243
+"Houston County, AL",348,269
+"Etowah County, AL",392,274
+"Limestone County, AL",913,660
+"Marshall County, AL",435,326
+"Lauderdale County, AL",356,248
+"Saint Clair County, AL",283,188
+"Cullman County, AL",377,287
+"Elmore County, AL",235,168
+"Talladega County, AL",276,210
+"De Kalb County, AL",201,148
+"Walker County, AL",234,175
+"Blount County, AL",176,129
+"Russell County, AL",162,89
+"Autauga County, AL",161,85
+"Colbert County, AL",269,199
+"Coffee County, AL",169,120
+"Jackson County, AL",158,117
+"Dale County, AL",136,95
+"Chilton County, AL",147,109
+"Tallapoosa County, AL",158,132
+"Dallas County, AL",138,108
+"Covington County, AL",178,156
+"Escambia County, AL",108,83
+"Chambers County, AL",71,42
+"Pike County, AL",133,127
+"Lawrence County, AL",86,56
+"Franklin County, AL",72,51
+"Marion County, AL",95,73
+"Geneva County, AL",63,52
+"Barbour County, AL",75,67
+"Cherokee County, AL",131,110
+"Winston County, AL",133,112
+"Clarke County, AL",86,72
+"Bibb County, AL",34,24
+"Randolph County, AL",82,65
+"Monroe County, AL",60,57
+"Macon County, AL",42,34
+"Marengo County, AL",44,37
+"Pickens County, AL",25,19
+"Butler County, AL",38,31
+"Henry County, AL",67,54
+"Fayette County, AL",63,52
+"Washington County, AL",26,23
+"Cleburne County, AL",31,20
+"Hale County, AL",25,20
+"Clay County, AL",34,22
+"Lamar County, AL",21,19
+"Crenshaw County, AL",28,26
+"Choctaw County, AL",11,10
+"Sumter County, AL",11,8
+"Conecuh County, AL",37,33
+"Wilcox County, AL",19,18
+"Coosa County, AL",24,17
+"Bullock County, AL",9,7
+"Lowndes County, AL",9,7
+"Perry County, AL",17,12
+"Greene County, AL",11,7
+"Anchorage Borough, AK",376,160
+"Matanuska Susitna Borough, AK",394,257
+"Fairbanks North Star Borough, AK",223,102
+"Kenai Peninsula Borough, AK",288,205
+"Juneau Borough, AK",34,21
+"Bethel Borough, AK",18,16
+"Ketchikan Gateway Borough, AK",32,26
+"Kodiak Island Borough, AK",26,19
+"North Slope Borough, AK",5,5
+"Nome Borough, AK",1,1
+"Valdez Cordova Borough, AK",32,27
+"Sitka Borough, AK",20,15
+"Kusilvak Borough, AK",1,1
+"Northwest Arctic Borough, AK",2,1
+"Southeast Fairbanks Borough, AK",52,42
+"Yukon Koyukuk Borough, AK",9,9
+"Prince of Wales-Hyder Borough, AK",31,28
+"Aleutians West Borough, AK",1,1
+"Dillingham Borough, AK",7,6
+"Petersburg Borough, AK",8,5
+"Aleutians East Borough, AK",1,1
+"Hoonah-Angoon Borough, AK",4,3
+"Denali Borough, AK",3,3
+"Wrangell Borough, AK",14,14
+"Haines Borough, AK",21,18
+"Skagway Borough, AK",1,0
+"Lake and Peninsula Borough, AK",2,2
+"Bristol Bay Borough, AK",4,4
+"Yakutat Borough, AK",2,1
+"Pima County, AZ",3809,2645
+"Maricopa County, AZ",14543,11925
+"Pinal County, AZ",2694,2253
+"Yavapai County, AZ",1401,1082
+"Mohave County, AZ",1321,1013
+"Yuma County, AZ",617,568
+"Coconino County, AZ",393,303
+"Cochise County, AZ",514,439
+"Navajo County, AZ",397,352
+"Apache County, AZ",141,129
+"Gila County, AZ",392,332
+"Santa Cruz County, AZ",246,208
+"Graham County, AZ",94,69
+"La Paz County, AZ",58,53
+"Greenlee County, AZ",7,5
+"Pulaski County, AR",1328,1148
+"Benton County, AR",641,632
+"Washington County, AR",379,371
+"Sebastian County, AR",426,303
+"Faulkner County, AR",351,278
+"Saline County, AR",439,362
+"Craighead County, AR",544,411
+"Garland County, AR",594,518
+"White County, AR",264,205
+"Lonoke County, AR",286,247
+"Jefferson County, AR",243,179
+"Pope County, AR",255,186
+"Crawford County, AR",192,127
+"Crittenden County, AR",167,121
+"Greene County, AR",174,144
+"Miller County, AR",132,97
+"Baxter County, AR",255,253
+"Mississippi County, AR",94,53
+"Union County, AR",105,67
+"Independence County, AR",102,77
+"Boone County, AR",170,166
+"Hot Spring County, AR",109,94
+"Carroll County, AR",141,139
+"Johnson County, AR",135,106
+"Cleburne County, AR",186,173
+"Saint Francis County, AR",40,27
+"Poinsett County, AR",92,69
+"Columbia County, AR",74,61
+"Ouachita County, AR",71,53
+"Clark County, AR",88,79
+"Logan County, AR",93,66
+"Conway County, AR",59,43
+"Yell County, AR",73,60
+"Hempstead County, AR",63,47
+"Polk County, AR",147,140
+"Ashley County, AR",43,36
+"Randolph County, AR",97,84
+"Grant County, AR",51,45
+"Drew County, AR",60,51
+"Arkansas County, AR",87,75
+"Sharp County, AR",142,122
+"Franklin County, AR",83,64
+"Phillips County, AR",36,31
+"Cross County, AR",62,47
+"Jackson County, AR",29,22
+"Marion County, AR",109,106
+"Madison County, AR",59,57
+"Lawrence County, AR",56,43
+"Sevier County, AR",29,24
+"Van Buren County, AR",107,96
+"Clay County, AR",112,86
+"Izard County, AR",101,87
+"Lincoln County, AR",27,20
+"Howard County, AR",55,46
+"Stone County, AR",69,61
+"Little River County, AR",29,24
+"Fulton County, AR",84,77
+"Desha County, AR",22,17
+"Bradley County, AR",34,28
+"Chicot County, AR",11,8
+"Pike County, AR",54,47
+"Perry County, AR",38,33
+"Scott County, AR",50,42
+"Lee County, AR",8,6
+"Montgomery County, AR",48,45
+"Nevada County, AR",28,20
+"Prairie County, AR",14,13
+"Searcy County, AR",54,51
+"Cleveland County, AR",17,16
+"Newton County, AR",53,52
+"Monroe County, AR",16,9
+"Dallas County, AR",17,14
+"Lafayette County, AR",17,15
+"Woodruff County, AR",12,8
+"Calhoun County, AR",18,12
+"Alameda County, CA",1472,905
+"Alpine County, CA",20,18
+"Kern County, CA",2281,1602
+"Riverside County, CA",7264,5290
+"Fresno County, CA",1942,1164
+"Orange County, CA",3063,1950
+"Ventura County, CA",1222,795
+"San Diego County, CA",3895,2532
+"San Mateo County, CA",604,355
+"Contra Costa County, CA",1640,1017
+"Sacramento County, CA",1917,1353
+"Los Angeles County, CA",10958,7450
+"San Joaquin County, CA",1261,902
+"Santa Clara County, CA",1251,686
+"San Francisco County, CA",450,292
+"San Bernardino County, CA",5801,4293
+"Stanislaus County, CA",878,569
+"Sonoma County, CA",845,617
+"Tulare County, CA",862,545
+"Solano County, CA",807,518
+"Santa Barbara County, CA",582,401
+"Monterey County, CA",544,364
+"Placer County, CA",1047,772
+"San Luis Obispo County, CA",623,418
+"Merced County, CA",507,343
+"Marin County, CA",326,217
+"Santa Cruz County, CA",368,276
+"Yolo County, CA",265,173
+"Butte County, CA",537,403
+"El Dorado County, CA",716,574
+"Shasta County, CA",656,459
+"Imperial County, CA",235,147
+"Madera County, CA",714,496
+"Kings County, CA",303,191
+"Napa County, CA",339,276
+"Humboldt County, CA",416,402
+"Nevada County, CA",416,317
+"Sutter County, CA",141,117
+"Mendocino County, CA",359,296
+"Yuba County, CA",250,185
+"Lake County, CA",448,361
+"Tehama County, CA",274,199
+"San Benito County, CA",115,83
+"Tuolumne County, CA",424,337
+"Calaveras County, CA",428,335
+"Siskiyou County, CA",220,185
+"Amador County, CA",225,199
+"Lassen County, CA",133,117
+"Glenn County, CA",58,42
+"Del Norte County, CA",99,97
+"Colusa County, CA",37,26
+"Plumas County, CA",152,122
+"Inyo County, CA",35,26
+"Mariposa County, CA",135,113
+"Trinity County, CA",143,132
+"Mono County, CA",44,34
+"Modoc County, CA",55,50
+"Sierra County, CA",22,19
+"Alamosa County, CO",43,35
+"Arapahoe County, CO",1147,996
+"Archuleta County, CO",145,122
+"Kit Carson County, CO",30,26
+"El Paso County, CO",1985,1456
+"Denver County, CO",1191,1075
+"Jefferson County, CO",833,702
+"Adams County, CO",841,714
+"Douglas County, CO",909,749
+"Larimer County, CO",716,660
+"Weld County, CO",825,745
+"Boulder County, CO",618,572
+"Pueblo County, CO",843,719
+"Mesa County, CO",585,361
+"Broomfield County, CO",124,104
+"Garfield County, CO",157,109
+"Eagle County, CO",136,108
+"La Plata County, CO",172,144
+"Fremont County, CO",291,231
+"Montrose County, CO",173,133
+"Delta County, CO",180,144
+"Summit County, CO",150,120
+"Morgan County, CO",95,91
+"Elbert County, CO",122,103
+"Montezuma County, CO",113,90
+"Routt County, CO",104,71
+"Teller County, CO",207,159
+"Logan County, CO",76,68
+"Chaffee County, CO",89,87
+"Otero County, CO",97,87
+"Pitkin County, CO",160,131
+"Park County, CO",251,225
+"Gunnison County, CO",107,94
+"Grand County, CO",134,108
+"Las Animas County, CO",136,120
+"Moffat County, CO",77,56
+"Prowers County, CO",35,32
+"Rio Grande County, CO",73,67
+"Yuma County, CO",37,31
+"Clear Creek County, CO",35,35
+"San Miguel County, CO",98,81
+"Conejos County, CO",20,18
+"Lake County, CO",32,27
+"Huerfano County, CO",117,107
+"Rio Blanco County, CO",21,16
+"Saguache County, CO",53,48
+"Crowley County, CO",19,15
+"Bent County, CO",26,22
+"Gilpin County, CO",20,19
+"Lincoln County, CO",15,12
+"Ouray County, CO",58,49
+"Washington County, CO",26,26
+"Custer County, CO",126,115
+"Phillips County, CO",28,24
+"Baca County, CO",11,11
+"Costilla County, CO",49,44
+"Sedgwick County, CO",14,12
+"Dolores County, CO",15,13
+"Hinsdale County, CO",22,21
+"Mineral County, CO",12,9
+"New Haven County, CT",787,461
+"Hartford County, CT",722,313
+"Fairfield County, CT",1022,585
+"New London County, CT",318,183
+"Litchfield County, CT",312,213
+"Middlesex County, CT",226,138
+"Tolland County, CT",145,65
+"Windham County, CT",156,92
+"New Castle County, DE",682,321
+"Sussex County, DE",1181,789
+"Kent County, DE",459,280
+"Alachua County, FL",851,592
+"Calhoun County, FL",35,30
+"Duval County, FL",3710,3162
+"Lee County, FL",8410,7022
+"Polk County, FL",4087,3223
+"Broward County, FL",6066,5209
+"Orange County, FL",3791,2611
+"Pinellas County, FL",4702,3492
+"Miami-Dade County, FL",5692,4716
+"Palm Beach County, FL",6471,5673
+"Hillsborough County, FL",5020,3469
+"Brevard County, FL",3176,2365
+"Pasco County, FL",3182,2291
+"Volusia County, FL",3723,2856
+"Seminole County, FL",1322,880
+"Sarasota County, FL",4891,3884
+"Manatee County, FL",2968,2363
+"Osceola County, FL",2486,2038
+"Lake County, FL",2272,1679
+"Collier County, FL",3801,3235
+"Marion County, FL",2945,2331
+"Escambia County, FL",1550,1188
+"Saint Lucie County, FL",2262,2040
+"Leon County, FL",678,468
+"Saint Johns County, FL",1783,1615
+"De Soto County, FL",158,134
+"Clay County, FL",892,777
+"Okaloosa County, FL",1210,931
+"Hernando County, FL",1439,1012
+"Charlotte County, FL",3207,2784
+"Santa Rosa County, FL",1055,777
